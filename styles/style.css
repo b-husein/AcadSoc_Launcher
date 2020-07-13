@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  min-height: 180px;
+  width: 400px;
+}
+
+h1 {
+  font-family: 'Grenze Gotisch', monospace;
+  font-size: 22px;
+  padding: 10px;
+  font-weight: bold;
+  color: #d2202f;
+}
+
+.version {
+  color: #25398e;
+  font-size: 1rem;
+}
+
+.modal-content {
+  padding: 0 22px;
+}
+
+a:link,
+a:visited {
+  color: #000;
+  outline: 0;
+  text-decoration: none;
+}
+
+.logo-icon {
+  width: 2rem;
+  margin-right: 5px;
+  vertical-align: text-bottom;
+}
+
+.modal-header {
+  align-items: center;
+}
+
+.modal-icons {
+  height: 50px;
+  width: 100%;
+  margin: 20px;
+}
+
+.logo {
+  padding: 1rem;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.flex {
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out;
+  width: 125px;
+}
+
+.flex:hover {
+  opacity: 0.4;
+}
+
+.flex .fa {
+  font-size: 40px;
+  color: #d2202f;
+}

@@ -1,4 +1,9 @@
 # AcadSoc_Launcher
+The download link from the Google Chrome Web Store: 
+
+https://chrome.google.com/webstore/detail/acadsoc-launcher/fpjijgfmbajbafepmiefhgooapmcpafp/related?hl=en&authuser=0
+
+
 "AcadSoc_Launcher" is a Google Chrome extension created to simplify the workflow of teachers in Online Academic Society;
 
 The extension contains several links for tools that teachers use on daily basis like: 

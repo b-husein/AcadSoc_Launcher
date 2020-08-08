@@ -1,5 +1,5 @@
 # AcadSoc_Launcher
-For the installation, you can use the download link from the Google Chrome Web Store: 
+## For the installation, you can use the download link from the Google Chrome Web Store: 
 
 https://chrome.google.com/webstore/detail/acadsoc-launcher/fpjijgfmbajbafepmiefhgooapmcpafp/related?hl=en&authuser=0
 

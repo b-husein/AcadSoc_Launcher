@@ -14,12 +14,6 @@ https://chrome.google.com/webstore/detail/acadsoc-launcher/fpjijgfmbajbafepmiefh
 
 Version 1.0.0; 
 
-🔥 FOLLOW ME ON:
-
-🚀 https://github.com/b-husein 
-
-🚀 https://www.linkedin.com/in/pragmaticxyz/
-
 💻 USEFUL PLAYLISTS:
 
 👊 HTML5

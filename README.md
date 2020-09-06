@@ -12,7 +12,7 @@ https://chrome.google.com/webstore/detail/acadsoc-launcher/fpjijgfmbajbafepmiefh
 4. The link for the oficial FB group; 
 5. The link for the official YT channel; 
 
-Version 1.0.0; 
+Version 1.0.x; 
 
 💻 USEFUL PLAYLISTS:
 

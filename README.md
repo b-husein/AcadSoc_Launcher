@@ -1,4 +1,7 @@
 # AcadSoc_Launcher
+
+![Launcher Gif](./img/project-2.gif)
+
 For the installation, you can use the download link for the Google Chrome Web Store: 
 
 https://chrome.google.com/webstore/detail/acadsoc-launcher/fpjijgfmbajbafepmiefhgooapmcpafp/related?hl=en&authuser=0
@@ -13,20 +16,6 @@ https://chrome.google.com/webstore/detail/acadsoc-launcher/fpjijgfmbajbafepmiefh
 5. The link for the official YT channel; 
 
 Version 1.0.x; 
-
-💻 USEFUL PLAYLISTS:
-
-👊 HTML5
-
-https://www.youtube.com/watch?v=FsHaB9t4fLo&list=PL_RU_7f8ZS8NhJIlI-izam_itmCcZEc2C
-
-👊 CSS3
-
-https://www.youtube.com/watch?v=ZFDZDyeGmgI&list=PL_RU_7f8ZS8MZ8TIVDwWOFKLQU9wKjedu
-
-👊 JAVASCRIPT
-
-https://www.youtube.com/watch?v=xd6M1hMryiA&list=PL_RU_7f8ZS8NAvpkEHfSsP6PPlbR8Gd2e
 
   ▶ Thanks for reading. ◀
 

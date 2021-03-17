@@ -12,7 +12,5 @@ For the installation, you can use the download link at [Google Chrome Web Store:
 4. The link for the oficial FB group; 
 5. The link for the official YT channel; 
 
-Version 1.0.x; 
-
   ▶ Thanks for reading. ◀
 
